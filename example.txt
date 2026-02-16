@@ -7,3 +7,4 @@ My Grocery List
 - Sugar
 - Lemons
 - Coffee
+- 5 Hour Energy
